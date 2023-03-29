@@ -1,0 +1,10 @@
+"C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\idea_rt.jar=62686:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\LAB\IdeaProjects\assignemt\out\production\assignemt Age
+passengerAge group	Count
+0-10		1
+10-20		2
+20-30		4
+30-40		4
+40-50		2
+50+		5
+
+Process finished with exit code 0
